@@ -3,5 +3,6 @@
 
 void HTMLGen();
 void cheaders();
+void javaGen();
 
 #endif // HTGEN__H_INCLUDED
